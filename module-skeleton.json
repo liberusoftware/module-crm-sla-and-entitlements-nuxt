@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sla-and-entitlements-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-sla-and-entitlements",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-sla-and-entitlements-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/sla-and-entitlements.md",
+  "presentationPlan": "projects/crm/nuxt/sla-and-entitlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
